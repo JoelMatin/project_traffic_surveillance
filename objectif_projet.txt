@@ -1,0 +1,4 @@
+- objectif; input d'une ville et prédire sa température
+- quadriller la position de la ville et définir un rayon dans lequel on prend les villes de notre data en compte 
+- utiliser les 5 dernières années pour la validation 
+- utiliser regression : 
